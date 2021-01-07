@@ -1,4 +1,9 @@
 # 5GPopulism
 Populism and the 5G Conspiracy
 
-Look at earlier election results? e.g. votes for UKIP in 2015 GE (narrower measure of 'extreme populism', compared to broad support for Brexit Party in 2019)
+Write up available here: https://matteotiratelli.github.io/Files/Populism-and-5G.html
+
+* 2019 EU Election Results.csv: The results of the 2019 European Parliament Elections in the UK, downloaded from the House of Commons library
+* Annex - Phone mast and telecoms infrastructure incident data: pdf and csv versions of the data on telecommunications infrastructure attacks from Ofcom FOI 1046318
+* FOI 1 and 2: Replies from Ofcom to the two Freedom of Information requests I submitted
+* Maps.R: R code to produce the maps and graphs included in the write up
