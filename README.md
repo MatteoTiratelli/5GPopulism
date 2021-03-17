@@ -1,7 +1,7 @@
 # 5GPopulism
 Populism and the 5G Conspiracy
 
-Write up available here: https://matteotiratelli.github.io/Files/Populism-and-5G.html
+Write up available here: https://matteotiratelli.substack.com/p/populism-the-5g-conspiracy-and-direct
 
 * 2019 EU Election Results.csv: The results of the 2019 European Parliament Elections in the UK, downloaded from the House of Commons library
 * Annex - Phone mast and telecoms infrastructure incident data: pdf and csv versions of the data on telecommunications infrastructure attacks from Ofcom FOI 1046318
